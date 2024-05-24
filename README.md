@@ -18,7 +18,16 @@
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+### 💻 My knowledge: 💻
+- GIT
+- Java
+- MySQL
+- Spring Boot
 
+### 👦 About me: 👦
+- I'm 26 years old, living in Lecce, Italy.
+- Studying at Develhope bootcamp.
+- I love RPG games and doing physical activity.
 <p align="center">
   <a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
   <img align="center" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
