@@ -21,13 +21,13 @@
 
 <p align="center">
   <br>
-  ### 💻 My knowledge: 💻 ###<br>
+  ### 💻 MY KNOWLEDGE: 💻 ###<br>
 - GIT<br>
 - Java<br>
 - MySQL<br>
 - Spring Boot<br>
 <br>
-### 👦 About me: 👦 ###<br>
+### 👦 ABOUT ME: 👦 ###<br>
 - I'm 26 years old, living in Lecce, Italy.<br>
 - Studying at Develhope bootcamp.<br>
 - I love RPG games and doing physical activity.<br>
