@@ -20,16 +20,17 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 <p align="center">
-  ### 💻 My knowledge: 💻
-- GIT
-- Java
-- MySQL
-- Spring Boot
-
-### 👦 About me: 👦
-- I'm 26 years old, living in Lecce, Italy.
-- Studying at Develhope bootcamp.
-- I love RPG games and doing physical activity.
+  <br>
+  ### 💻 My knowledge: 💻<br>
+- GIT<br>
+- Java<br>
+- MySQL<br>
+- Spring Boot<br>
+<br>
+### 👦 About me: 👦<br>
+- I'm 26 years old, living in Lecce, Italy.<br>
+- Studying at Develhope bootcamp.<br>
+- I love RPG games and doing physical activity.<br>
   <a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
   <img align="center" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
