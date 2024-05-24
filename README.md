@@ -31,6 +31,8 @@
 - I'm 26 years old, living in Lecce, Italy.<br>
 - Studying at Develhope bootcamp.<br>
 - I love RPG games and doing physical activity.<br>
+  <br>
+  <br>
   <a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
   <img align="center" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
