@@ -20,9 +20,9 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/mattia-merico/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
+  <img align="center" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 </samp>
